@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APIWebServices</name>
+    </assembly>
+    <members>
+        <member name="M:APIWebServices.Controller.UserController.GetAllUsers">
+            <summary>
+            Retourne tous les utilisateurs
+            </summary>
+            <returns>La liste des utilisateurs</returns>
+            <response code="200">Retourne la liste des utilisateurs</response>
+            <response code="404">Retourne une erreur si aucun utilisateur n'a été trouvé</response>
+        </member>
+        <member name="M:APIWebServices.Controller.UserController.GetEmail(System.Int32)">
+            <summary>
+            Retourne l'email d'un utilisateur par son ID
+            </summary>
+            <param name="id">ID de l'utilisateur</param>
+            <returns>Retourne l'email si trouvé</returns>
+            <response code="200">Retourne l'email</response>
+            <response code="404">Retourne une erreur si l'utilisateur n'a pas été trouvé</response>
+        </member>
+        <member name="M:APIWebServices.Controller.UserController.GetUser(System.Int32)">
+            <summary>
+            Retourne un utilisateur par son ID
+            </summary>
+            <param name="id">ID de l'utilisateur</param>
+            <returns>Retourne l'utilisateur si trouvé</returns>
+            <response code="200">Retourne l'utilisateur</response>
+            <response code="404">Retourne une erreur si l'utilisateur n'a pas été trouvé</response>
+        </member>
+        <member name="M:APIWebServices.Controller.UserController.AddUser(APIWebServices.Model.User)">
+            <summary>
+            Ajoute un nouvel utilisateur
+            </summary>
+            <param name="user"></param>
+            <returns>Retourne l'utilisateur créé</returns>
+        </member>
+        <member name="M:APIWebServices.Controller.UserController.DeleteUser(System.Int32)">
+            <summary>
+            Supprime un utilisateur par son ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+            <response code="200">Utilisateur supprimé</response>
+            <response code="404">Retourne une erreur si l'utilisateur n'a pas été trouvé</response>
+        </member>
+    </members>
+</doc>

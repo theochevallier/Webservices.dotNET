@@ -1,0 +1,14 @@
+C:\Users\soste\Desktop\VSCODE\learnCSharp\bin\Debug\net7.0\learnCSharp.exe
+C:\Users\soste\Desktop\VSCODE\learnCSharp\bin\Debug\net7.0\learnCSharp.deps.json
+C:\Users\soste\Desktop\VSCODE\learnCSharp\bin\Debug\net7.0\learnCSharp.runtimeconfig.json
+C:\Users\soste\Desktop\VSCODE\learnCSharp\bin\Debug\net7.0\learnCSharp.dll
+C:\Users\soste\Desktop\VSCODE\learnCSharp\bin\Debug\net7.0\learnCSharp.pdb
+C:\Users\soste\Desktop\VSCODE\learnCSharp\obj\Debug\net7.0\learnCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soste\Desktop\VSCODE\learnCSharp\obj\Debug\net7.0\learnCSharp.AssemblyInfoInputs.cache
+C:\Users\soste\Desktop\VSCODE\learnCSharp\obj\Debug\net7.0\learnCSharp.AssemblyInfo.cs
+C:\Users\soste\Desktop\VSCODE\learnCSharp\obj\Debug\net7.0\learnCSharp.csproj.CoreCompileInputs.cache
+C:\Users\soste\Desktop\VSCODE\learnCSharp\obj\Debug\net7.0\learnCSharp.dll
+C:\Users\soste\Desktop\VSCODE\learnCSharp\obj\Debug\net7.0\refint\learnCSharp.dll
+C:\Users\soste\Desktop\VSCODE\learnCSharp\obj\Debug\net7.0\learnCSharp.pdb
+C:\Users\soste\Desktop\VSCODE\learnCSharp\obj\Debug\net7.0\learnCSharp.genruntimeconfig.cache
+C:\Users\soste\Desktop\VSCODE\learnCSharp\obj\Debug\net7.0\ref\learnCSharp.dll
