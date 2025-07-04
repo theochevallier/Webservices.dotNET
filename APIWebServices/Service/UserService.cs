@@ -27,7 +27,7 @@ namespace APIWebServices.Service
 
         public void AddUser(User user)
         {
-            user.Id = _users.Max(u => u.Id) + 1; // Génère un nouvel ID
+            user.Id = _users.Max(u => u.Id) + 1;
             _users.Add(user);
         }
 
@@ -38,7 +38,6 @@ namespace APIWebServices.Service
             {
                 _users.Remove(user);
             } else {
-                // Utilisateur non trouvé, 404
                 throw new KeyNotFoundException("Utilisateur non trouvé");
             }
         }
